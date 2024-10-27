@@ -9,15 +9,15 @@
 }
 
 body {
-  
-  display: grid;
-  place-content: center;
+  display: flex;
   font-family: "Roboto", sans-serif;
   height: 100vh;
   font-size: 2rem;
+  align-items: center;
+justify-content: center;
 }
 .header{
-  text-align: center;
+text-align: center  ;
   
 }
 .container {

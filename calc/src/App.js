@@ -1,14 +1,8 @@
-
-import './App.css';
-import React from 'react';
-import Calc from './Components/Calculator';
-
+import "./App.css";
+import Calc from "./Components/Calculator";
 
 function App() {
-  
-  return (
-<Calc/>
-  );
+  return <Calc />;
 }
 
 export default App;
