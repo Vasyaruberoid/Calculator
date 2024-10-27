@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import cl from "./Calculator.module.css";
 import classnames from "classnames";
 import { NumericFormat } from "react-number-format";
@@ -49,7 +49,6 @@ const Calc = () => {
       case "/":
         cal = String(parseFloat(preState) / parseFloat(curState));
         break;
-
       case "+":
         cal = String(parseFloat(preState) + parseFloat(curState));
         break;
