@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Vasyaruberoid/Calculator.git/static/css/main.ecac2cca.css",
-    "main.js": "/Vasyaruberoid/Calculator.git/static/js/main.f1d22c7e.js",
-    "index.html": "/Vasyaruberoid/Calculator.git/index.html",
-    "main.ecac2cca.css.map": "/Vasyaruberoid/Calculator.git/static/css/main.ecac2cca.css.map",
-    "main.f1d22c7e.js.map": "/Vasyaruberoid/Calculator.git/static/js/main.f1d22c7e.js.map"
+    "main.css": "/Calculator/static/css/main.ecac2cca.css",
+    "main.js": "/Calculator/static/js/main.f1d22c7e.js",
+    "index.html": "/Calculator/index.html",
+    "main.ecac2cca.css.map": "/Calculator/static/css/main.ecac2cca.css.map",
+    "main.f1d22c7e.js.map": "/Calculator/static/js/main.f1d22c7e.js.map"
   },
   "entrypoints": [
     "static/css/main.ecac2cca.css",
